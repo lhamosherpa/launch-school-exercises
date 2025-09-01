@@ -1,0 +1,1 @@
+console.log('it\'s a greeting in Japanese Language')

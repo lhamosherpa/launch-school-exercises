@@ -1,0 +1,1 @@
+console.log('This is the file for end section of the prepatory')

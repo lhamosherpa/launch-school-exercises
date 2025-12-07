@@ -1,1 +1,0 @@
-console.log('This is the first assignment from Launch School')

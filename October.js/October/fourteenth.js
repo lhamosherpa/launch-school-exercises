@@ -1,1 +1,0 @@
-console.log('hello, I am the main folder')

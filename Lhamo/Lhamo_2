@@ -3,3 +3,5 @@ console.log([1,2,3,4,5][2])
 console.log ({cat:'meow', dog:'barks', cow: 'Mow'}['dog'])
 console.log (5+2)
 console.log(7 +(5+2))
+console.log(`The value of 5 + 10 is ${Number('5') + 10}`)
+
